@@ -1,0 +1,4 @@
+Player.hearts(5)
+Monster1.Healthpersecond() #Fly
+Monster2.Healthpersecond() #Beetle
+Monster3.Healthpersecond() #Monkey
