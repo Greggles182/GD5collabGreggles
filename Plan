@@ -3,3 +3,5 @@ Player.hearts(5)
 Monster1.Healthpersecond(*) #Fly
 Monster2.Healthpersecond(*) #Beetle
 Monster3.Healthpersecond(*) #Monkey
+Time.Penaltyfor1health(5) #seconds
+Time.Removefor1coin(2) #seconds
